@@ -8,6 +8,8 @@ Kubernetes - https://www.interviewbit.com/kubernetes-cheat-sheet/
 Important Topics
 (https://www.interviewbit.com/technical-interview-questions/#programming-language-tools-technologies)
 
+Basic DSA - https://www.interviewbit.com/data-structure-interview-questions/
+
 OOPS - https://www.interviewbit.com/oops-interview-questions/
 Java8 - https://www.interviewbit.com/java-8-interview-questions/
 Java - https://www.interviewbit.com/java-interview-questions/
