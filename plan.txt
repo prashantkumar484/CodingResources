@@ -32,7 +32,7 @@ https://leetcode.com/problems/add-two-numbers
 
 Resources:
 1. Patterns - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed?utm_source=pocket_mylist
-2. 
+2. Leetcode Questions List - https://www.linkedin.com/feed/update/urn:li:activity:6961872094779305984/
 
 
 
