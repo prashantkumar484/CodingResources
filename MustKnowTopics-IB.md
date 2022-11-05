@@ -5,7 +5,7 @@ Git - https://www.interviewbit.com/git-cheat-sheet/
 
 Kubernetes - https://www.interviewbit.com/kubernetes-cheat-sheet/
 
-
+---
 
 ### Important Topics
 (https://www.interviewbit.com/technical-interview-questions/#programming-language-tools-technologies)
@@ -32,8 +32,7 @@ Multithreading - https://www.interviewbit.com/multithreading-interview-questions
 
 DesignPatterns - https://www.interviewbit.com/design-patterns-interview-questions/
 
-
-
+---
 
 JDBC - https://www.interviewbit.com/jdbc-interview-questions/
 
@@ -47,14 +46,13 @@ Junit - https://www.interviewbit.com/junit-interview-questions/
 
 FunctionalTesting - https://www.interviewbit.com/functional-testing-interview-questions/
 
-
-
+---
 
 LLD - https://www.interviewbit.com/low-level-design-interview-questions/
 
 SystemDesign - https://www.interviewbit.com/system-design-interview-questions/
 
-
+---
 
 Java Hashmap - https://www.interviewbit.com/hashmap-interview-questions/
 
@@ -62,8 +60,7 @@ Java Strings - https://www.interviewbit.com/java-string-interview-questions/
 
 Java programming - https://www.interviewbit.com/java-programming-interview-questions/
 
-
-
+---
 
 Spring security - https://www.interviewbit.com/spring-security-interview-questions/
 
@@ -79,8 +76,7 @@ REST APIs - https://www.interviewbit.com/rest-api-interview-questions/
 
 MVC - https://www.interviewbit.com/mvc-interview-questions/
 
-
-
+---
 
 Jira - https://www.interviewbit.com/jira-interview-questions/
 
