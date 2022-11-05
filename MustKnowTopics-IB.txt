@@ -1,11 +1,11 @@
-Cheatsheets
+### Cheatsheets
 Java - https://www.interviewbit.com/java-cheat-sheet/
 Git - https://www.interviewbit.com/git-cheat-sheet/
 Kubernetes - https://www.interviewbit.com/kubernetes-cheat-sheet/
 
 
 
-Important Topics
+### Important Topics
 (https://www.interviewbit.com/technical-interview-questions/#programming-language-tools-technologies)
 
 Basic DSA - https://www.interviewbit.com/data-structure-interview-questions/
